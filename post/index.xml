@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Sgracia.es</title>
-    <link>https://sgracia.es/post/</link>
+    <link>https://sergiogracia.github.io/post/</link>
     <description>Recent content in Posts on Sgracia.es</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 27 Aug 2024 15:38:47 +0200</lastBuildDate>
-    <atom:link href="https://sgracia.es/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sergiogracia.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hi, again</title>
-      <link>https://sgracia.es/post/hiworld/</link>
+      <link>https://sergiogracia.github.io/post/hiworld/</link>
       <pubDate>Tue, 27 Aug 2024 15:38:47 +0200</pubDate>
-      <guid>https://sgracia.es/post/hiworld/</guid>
+      <guid>https://sergiogracia.github.io/post/hiworld/</guid>
       <description>It&amp;rsquo;s a meeeeee (again) Ya me van a disculpar la totalidad de 0 personas que leen estas líneas, pero he tenido que reconfigurar una serie de temas para ahorrar costes a tope. He tenido que migrar servidores y demás a cosas más ligeras (a.k.a: 0€) porque no tenia sentido no aprovechar las bondades que ofrece, en este caso, GitHub.&#xA;Tampoco me apeteceía volver a traspasar todo el contenido añejo así que, de nuevo, reseteamos.</description>
     </item>
   </channel>
