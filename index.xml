@@ -15,5 +15,12 @@
       <guid>https://sgracia.es/contact/</guid>
       <description>So easy it hurts:&#xA;sergio@sgracia.es</description>
     </item>
+    <item>
+      <title>Hi, again</title>
+      <link>https://sgracia.es/post/hiworld/</link>
+      <pubDate>Tue, 27 Aug 2024 15:38:47 +0200</pubDate>
+      <guid>https://sgracia.es/post/hiworld/</guid>
+      <description>It&amp;rsquo;s a meeeeee (again) Ya me van a disculpar la totalidad de 0 personas que leen estas líneas, pero he tenido que reconfigurar una serie de temas para ahorrar costes a tope. He tenido que migrar servidores y demás a cosas más ligeras (a.k.a: 0€) porque no tenia sentido no aprovechar las bondades que ofrece, en este caso, GitHub.&#xA;Tampoco me apeteceía volver a traspasar todo el contenido añejo así que, de nuevo, reseteamos.</description>
+    </item>
   </channel>
 </rss>
