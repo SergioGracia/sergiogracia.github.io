@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sgracia.es</title>
+    <link>https://sgracia.es/</link>
+    <description>Recent content on Sgracia.es</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 27 Aug 2024 15:52:29 +0200</lastBuildDate>
+    <atom:link href="https://sgracia.es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://sgracia.es/contact/</link>
+      <pubDate>Tue, 27 Aug 2024 15:52:29 +0200</pubDate>
+      <guid>https://sgracia.es/contact/</guid>
+      <description>So easy it hurts:&#xA;sergio@sgracia.es</description>
+    </item>
+  </channel>
+</rss>
